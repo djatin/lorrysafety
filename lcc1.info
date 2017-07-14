@@ -1,0 +1,6 @@
+name = Lorry Safety
+description = Theme for London Cycling Campaign Lorry Safety
+core = 7.x
+base theme = common
+
+scripts[] = js/theme-scripts.js
